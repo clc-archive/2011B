@@ -1,0 +1,136 @@
+/*style as h1*/
+.gform_title {
+    text-transform: uppercase !important;
+    font-size: 18px !important;
+    padding-bottom: 8px;
+}
+
+
+.gfield_required {
+	color:#990000;
+	padding-left:2px;}
+
+.gform_page_fields label {
+    margin-bottom: 12px !important;
+	margin-left: 0;
+    text-indent: 0;
+	font-size: .9em;
+    color: #666;
+}
+
+.gform_page_fields .gfield_description {
+    color: #666666 !important;
+    font-size: .8em !important;
+}
+
+/*progress bar*/
+.gform_wrapper .percentbar_custom {
+    background-image: url("http://clc-archive.chameid.es/wp-content/plugins/gravityforms/images/gf-percentbar-custom.png");
+    background-repeat: repeat-x;
+}
+.gform_wrapper .gf_progressbar_percentage {
+    font-size: 0;
+    height: 20px;
+    padding-right: 0;
+}
+
+.gform_wrapper .gf_progressbar {
+    background-color: #FFFFFF;
+    background-image: url("http://clc-archive.chameid.es/wp-content/plugins/gravityforms/images/gf-percentbar-bg.png");
+    background-position: center bottom;
+    background-repeat: repeat-x;
+    border: 1px solid #cc9999;
+    border-radius: 4px;
+    box-shadow: 1px 2px 1px 0 rgba(0, 0, 0, 0.23);
+    height: 20px;
+    overflow: hidden;
+    width: 277px;
+    margin-top: 4px;
+}
+
+
+
+
+.gform_page_fields ul {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+}
+.gform_page_footer {
+    clear: left;
+}
+.gform_page_fields ul li {
+    clear: left;
+    list-style: none outside none;
+    margin-bottom: 12px !important;
+}
+
+
+.gform_page_fields label.gfield_label {
+    font-size: 1.1em;
+    margin: 24px 0 0 !important;
+	color: black;
+}
+.ginput_left, .ginput_right {
+    float: left;
+    margin-right: 24px;
+	margin-bottom: 12px !important;
+}
+
+.gform_page_fields input, .gform_page_fields select {
+    bottom: 0;
+    margin: 2px 0;
+	padding-left: 5px;
+}
+
+input.large, .ginput_full input {
+    width: 277px;
+}
+
+input[type="checkbox"] {
+    float: left;
+    margin: 0px 2px 2px 6px;
+}
+
+input[type="tel"], input[type="email"], input[type="url"] {
+    background: none repeat scroll 0 0 #F9F9F9;
+    border: 1px solid #CCCCCC;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1) inset;
+    padding: 2px;
+}
+input[type="tel"]:focus, input[type="email"]:focus, input[type="url"]:focus {
+    background-color: #F4EF7B;
+    border: 1px solid #990000;
+}
+
+.gform_page_fields ul .gfield_radio li {
+    clear: none;
+    float: left;
+    width: auto;
+    text-align: center;
+    padding: 0px 9px ;
+}
+
+
+[class^="gfield_date_dropdown_"] {
+    float: left !important;
+    margin: 0px 10px 20px 0px;
+}
+
+.validation_error, .gform_page_fields .validation_message {
+    font-size: 14px !important;
+    background-color: #F4EF7B;
+    clear: left;
+    display: table;
+    padding: 5px;
+    font-size: 1.1em !important;
+	color: #666666;
+}
+
+
+.gfield_html_formatted ul {
+    padding-left: 1em !important;
+}
+.gfield_html_formatted ul li {
+    list-style: disc outside none;
+    margin-bottom: 10px !important;
+}

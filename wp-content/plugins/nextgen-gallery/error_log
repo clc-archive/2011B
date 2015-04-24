@@ -1,0 +1,5 @@
+[08-Sep-2011 14:37:50] PHP Warning:  Division by zero in /home/columbia/public_html/wp-content/plugins/nextgen-gallery/lib/gd.thumbnail.inc.php on line 288
+[08-Sep-2011 14:37:50] PHP Warning:  Division by zero in /home/columbia/public_html/wp-content/plugins/nextgen-gallery/lib/gd.thumbnail.inc.php on line 301
+[08-Sep-2011 14:37:50] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/columbia/public_html/wp-content/plugins/nextgen-gallery/lib/gd.thumbnail.inc.php on line 434
+[08-Sep-2011 14:37:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/columbia/public_html/wp-content/plugins/nextgen-gallery/lib/gd.thumbnail.inc.php:376) in /home/columbia/public_html/wp-content/plugins/nextgen-gallery/lib/gd.thumbnail.inc.php on line 604
+[08-Sep-2011 14:37:50] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/columbia/public_html/wp-content/plugins/nextgen-gallery/lib/gd.thumbnail.inc.php on line 605
