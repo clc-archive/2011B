@@ -25,7 +25,7 @@
 
 /*progress bar*/
 .gform_wrapper .percentbar_custom {
-    background-image: url("http://clc-archive.chameid.es/wp-content/plugins/gravityforms/images/gf-percentbar-custom.png");
+    background-image: url("http://clc-archive2011.chameid.es/wp-content/plugins/gravityforms/images/gf-percentbar-custom.png");
     background-repeat: repeat-x;
 }
 .gform_wrapper .gf_progressbar_percentage {
@@ -36,7 +36,7 @@
 
 .gform_wrapper .gf_progressbar {
     background-color: #FFFFFF;
-    background-image: url("http://clc-archive.chameid.es/wp-content/plugins/gravityforms/images/gf-percentbar-bg.png");
+    background-image: url("http://clc-archive2011.chameid.es/wp-content/plugins/gravityforms/images/gf-percentbar-bg.png");
     background-position: center bottom;
     background-repeat: repeat-x;
     border: 1px solid #cc9999;

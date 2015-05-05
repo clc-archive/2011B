@@ -13,8 +13,8 @@
 			echo ' | ' . sprintf( __( 'Page %s', 'twentyten' ), max( $paged, $page ) );
 		?>	Columbia Land Conservancy
 	</title>
-    <link rel="icon" type="image/gif" href="http://clc-archive.chameid.es/favicon.ico" />
-    <link rel="shortcut icon" type="image/x-icon" href="http://clc-archive.chameid.es/favicon.ico" />
+    <link rel="icon" type="image/gif" href="http://clc-archive2011.chameid.es/favicon.ico" />
+    <link rel="shortcut icon" type="image/x-icon" href="http://clc-archive2011.chameid.es/favicon.ico" />
 <link rel="stylesheet" type="text/css" href="/wp-content/themes/twentyten-child/style.css" />
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
 	<?php	
@@ -23,7 +23,7 @@
 		{}
 	else 
 		{
-			echo ("<script type=\"text/javascript\" src=\"http://clc-archive.chameid.es/js/externalwindow.js\"></script>");
+			echo ("<script type=\"text/javascript\" src=\"http://clc-archive2011.chameid.es/js/externalwindow.js\"></script>");
 		}
 	?>
 <? wp_head();
@@ -46,12 +46,12 @@ pageTracker._trackPageview("/404.html?page=" + document.location.pathname + docu
                 <div id="branding">
                 	<div id="headerlogo"> 
                    	  <div id="toplinks">
-                      	<a href="http://clc-archive.chameid.es" title="home">
+                      	<a href="http://clc-archive2011.chameid.es" title="home">
                         	<img src="/images/graphics/clc-logo.png" height="64" width="360" alt="Columbia Land Conservancy" class="noshadow" id="headerlogoimage" />
                         </a>
                             <ul>
                             	<li><a href="https://npo.networkforgood.org/Donate/Donate.aspx?npoSubscriptionId=2667&amp;code=2" title="Donate to CLC through Network for Good">DONATE</a> <span class="pipes">|</span></li>
-                                <li> <a href="http://clc-archive.chameid.es/not-available.html">EMAIL UPDATES</a> <span class="pipes">| </span></li>
+                                <li> <a href="http://clc-archive2011.chameid.es/not-available.html">EMAIL UPDATES</a> <span class="pipes">| </span></li>
                                 <li><a href="/index.html">Home</a></li>
 								
                                 <?php wp_meta(); 

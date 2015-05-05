@@ -44,7 +44,7 @@ get_header(); ?>
             </ul>    
  	   		<?php endwhile; ?>
     		<div id="pagenumbers">
-            <a href="http://clc-archive.chameid.es/tag/trails/"><span class="nav-button">More Trails News</span></a>
+            <a href="http://clc-archive2011.chameid.es/tag/trails/"><span class="nav-button">More Trails News</span></a>
             </div>
   			<?php else : ?>
 			<h2 class="center">Not Found</h2>

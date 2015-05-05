@@ -34,7 +34,7 @@ function my_password_form() {
     //calf listings get a unique password code
 	if (is_page_template( 'custom.listings-full.php' ) || is_singular( 'calf-listings' )  )
 	{$o = '<form action="' . esc_url( site_url( 'wp-login.php?action=postpass', 'login_post' ) ) . '" method="post">
-    ' . __( "<p>Enter password to get full access to this page, or <a href=\"http://clc-archive.chameid.es/working-farms/form/\">sign up</a>.</p>" ) . '
+    ' . __( "<p>Enter password to get full access to this page, or <a href=\"http://clc-archive2011.chameid.es/working-farms/form/\">sign up</a>.</p>" ) . '
     <input name="post_password" id="' . $label . '" type="password" size="20" />
 	<input type="submit" name="Submit" value="' . esc_attr__( "Submit" ) . '" />
     </form>

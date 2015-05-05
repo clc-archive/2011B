@@ -354,4 +354,4 @@ RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.+)$ $1.html [L]
 
 DirectoryIndex index.html
-ErrorDocument 404 http://clc-archive.chameid.es/not-available.html
+ErrorDocument 404 http://clc-archive2011.chameid.es/not-available.html

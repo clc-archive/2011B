@@ -110,5 +110,5 @@
 <hr/>
 <?php endwhile; // End the loop. Whew. ?>
 <div id="pagenumbers">
-<a href="/news/"><span class="nav-button">News Stories</span></a><a href="http://clc-archive.chameid.es/category/headline/page/2/"><span class="nav-button">CLC Headlines, Page 2 </span></a>
+<a href="/news/"><span class="nav-button">News Stories</span></a><a href="http://clc-archive2011.chameid.es/category/headline/page/2/"><span class="nav-button">CLC Headlines, Page 2 </span></a>
 </div>

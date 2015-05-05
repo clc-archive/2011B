@@ -14,7 +14,7 @@ Template Name: Knee-High
 						<h1 class="page-entry-title">Knee-High Naturalists</h1>
 					<div class="entry-content">
 <div class="rightimages">
-	<a href='http://clc-archive.chameid.es/wp-content/gallery/wet-and-wiggly/0052859089.jpg' ><img src='http://clc-archive.chameid.es/wp-content/gallery/wet-and-wiggly/thumbs/thumbs_0052859089.jpg' alt='Storytime' width="232" /></a>
+	<a href='http://clc-archive2011.chameid.es/wp-content/gallery/wet-and-wiggly/0052859089.jpg' ><img src='http://clc-archive2011.chameid.es/wp-content/gallery/wet-and-wiggly/thumbs/thumbs_0052859089.jpg' alt='Storytime' width="232" /></a>
 </div>
 <p>Explore, interact, and discover nature in a beautiful outdoor setting. Participants  will observe and expand their knowledge of nature, learn about what lives in  their own backyard, explore the outdoors, communicate what they have  discovered, create art, collect insects, catch frogs, and splash in Jon’s  Pond!  Each session includes story time,  take home arts &amp; crafts project, nature journaling, and free play.</p>
 <p>For ages 3 - 6 with adult<br />
@@ -37,7 +37,7 @@ Free</p>
 <h2><a href=\"#_LOCATIONPAGEURL\"  title=\"#_LOCATION\">#_LOCATION</a> - #_ADDRESS, #_TOWN</h2>
 [/events_if]
 [events_if tag='#_ATT{Contact}' value=\"Full\"]
-<h3 style=\"color:black\"><br />This event is full. Stay up to date on our upcoming events by signing up for our <a href=\"http://clc-archive.chameid.es/email-sign-up/\">email newsletter</a>.<br /></h3>
+<h3 style=\"color:black\"><br />This event is full. Stay up to date on our upcoming events by signing up for our <a href=\"http://clc-archive2011.chameid.es/email-sign-up/\">email newsletter</a>.<br /></h3>
 [/events_if]
 #_EXCERPT
 <h3 class=\"highlight\">#_ATT{Footer}</h3>

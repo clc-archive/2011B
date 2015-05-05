@@ -43,7 +43,7 @@ Template Name: Moon
             </h2>
         [/events_if]
         [events_if tag='#_ATT{Contact}' value=\"Full\"]
-        	<h3 style=\"color:black\"><br />This event is full. Stay up to date on our upcoming events by signing up for our <a href=\"http://clc-archive.chameid.es/email-sign-up/\">email newsletter</a>.<br /></h3>
+        	<h3 style=\"color:black\"><br />This event is full. Stay up to date on our upcoming events by signing up for our <a href=\"http://clc-archive2011.chameid.es/email-sign-up/\">email newsletter</a>.<br /></h3>
         [/events_if]
         #_EXCERPT
         [events_if tag='#_ATT{Contact}' value='Marcia']

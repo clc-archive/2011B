@@ -37,7 +37,7 @@
 </div><!-- #wrapper -->
 
 
-<script type="text/javascript" src="http://clc-archive.chameid.es/js/combine.pack.js"></script>
+<script type="text/javascript" src="http://clc-archive2011.chameid.es/js/combine.pack.js"></script>
 <?php
 
 	/* Always have wp_footer() just before the closing </body>

@@ -254,7 +254,7 @@ text-decoration:underline\9; /* IE8 and older */
 #featured {margin-left: 12px; padding:10px 0; clear:both}
 .f-item { position:relative; overflow:hidden; width:232px; height:132px; display:inline; float:left; margin-left:6px; }
 .f-item img { position:absolute; z-index:1; }
-.f-item .f-meta { width:212px; height:132px; padding:4px 10px; position:absolute; z-index:2; top:103px; background:url(http://clc-archive.chameid.es/featured-meta-bg.png) repeat top left; color:#fff;}
+.f-item .f-meta { width:212px; height:132px; padding:4px 10px; position:absolute; z-index:2; top:103px; background:url(http://clc-archive2011.chameid.es/featured-meta-bg.png) repeat top left; color:#fff;}
 .f-item .f-meta h3 {font-weight:900; font-size: 1.4em; margin:0; padding:0 0 6px 0; text-transform:uppercase; text-shadow: #000000 2px 2px 3px; line-height:1.2em;}
 .f-item .f-meta a { color:#fff; text-decoration:none; }
 .f-item .f-meta p { margin:0; padding:0; font-size:1em; text-shadow:1px 2px 4px #000000; color:white;}
@@ -1701,7 +1701,7 @@ h2.entry-title a:link {text-decoration:none}
 
 /*progress bar*/
 .gform_wrapper .percentbar_custom {
-    background-image: url("http://clc-archive.chameid.es/wp-content/plugins/gravityforms/images/gf-percentbar-custom.png");
+    background-image: url("http://clc-archive2011.chameid.es/wp-content/plugins/gravityforms/images/gf-percentbar-custom.png");
     background-repeat: repeat-x;
 }
 .gform_wrapper .gf_progressbar_percentage {
@@ -1712,7 +1712,7 @@ h2.entry-title a:link {text-decoration:none}
 
 .gform_wrapper .gf_progressbar {
     background-color: #FFFFFF;
-    background-image: url("http://clc-archive.chameid.es/wp-content/plugins/gravityforms/images/gf-percentbar-bg.png");
+    background-image: url("http://clc-archive2011.chameid.es/wp-content/plugins/gravityforms/images/gf-percentbar-bg.png");
     background-position: center bottom;
     background-repeat: repeat-x;
     border: 1px solid #cc9999;

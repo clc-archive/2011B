@@ -441,7 +441,7 @@ function my_password_form() {
 	if (is_page_template( 'custom.CALF-listings.php' ) || is_singular( 'calf-listings' )  )
 	{
 		$o = '<form action="' . esc_url( site_url( 'wp-login.php?action=postpass', 'login_post' ) ) . '" method="post">
-    ' . __( "<p>Enter the password to get full access to this page or <a href=\"http://clc-archive.chameid.es/working-farms/form/\">sign up</a>. If you have lost your password, contact Marissa Codey for assistance at <a href=\"mailto:marissa@clctrust.org\">marissa@clctrust.org</a>.</p>" ) . '
+    ' . __( "<p>Enter the password to get full access to this page or <a href=\"http://clc-archive2011.chameid.es/working-farms/form/\">sign up</a>. If you have lost your password, contact Marissa Codey for assistance at <a href=\"mailto:marissa@clctrust.org\">marissa@clctrust.org</a>.</p>" ) . '
     <label for="' . $label . '">' . ' </label><input name="post_password" id="' . $label . '" type="password" size="20" maxlength="20" /><input type="submit" name="Submit" value="' . esc_attr__( "Submit Password" ) . '" />
     </form>
     ';

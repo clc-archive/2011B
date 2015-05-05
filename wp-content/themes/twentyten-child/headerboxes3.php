@@ -3,8 +3,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Columbia Land Conservancy - Conserving Rural Landscapes</title>
-<link rel="icon" type="image/gif" href="http://clc-archive.chameid.es/favicon.ico" />
- <link rel="shortcut icon" type="image/x-icon" href="http://clc-archive.chameid.es/favicon.ico" />
+<link rel="icon" type="image/gif" href="http://clc-archive2011.chameid.es/favicon.ico" />
+ <link rel="shortcut icon" type="image/x-icon" href="http://clc-archive2011.chameid.es/favicon.ico" />
  
 <link rel="stylesheet" type="text/css" href="/wp-content/themes/twentyten-child/style.css" />
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
@@ -17,7 +17,7 @@
 ?>
 <? wp_head();
 ?>
-<script type="text/javascript" async src="http://clc-archive.chameid.es/js/boxescombine.js"></script>
+<script type="text/javascript" async src="http://clc-archive2011.chameid.es/js/boxescombine.js"></script>
 <script src="/js/jbar/js/jbar-custom2b.js"></script>
 	<script>
     $(function() {
@@ -31,7 +31,7 @@
             buttonColorHover: '#000', // Button Color Hover
             calltoAction: '', // Call to action text
             buttonText: 'May 26 Country Barbecue &ndash; Pre-Purchase Tickets &amp; Save', // Button Text
-            buttonLink: 'http://clc-archive.chameid.es/events/137/2013-country-barbecue/' // Hyperlink from button
+            buttonLink: 'http://clc-archive2011.chameid.es/events/137/2013-country-barbecue/' // Hyperlink from button
         });
     });
 </script>
@@ -43,10 +43,10 @@
                 <div id="branding">
                 	<div id="headerlogo"> 
                    	  <div id="toplinks">
-                			<a href="http://clc-archive.chameid.es">
+                			<a href="http://clc-archive2011.chameid.es">
                             	<img src="/images/graphics/clc-logo.png" height="64" width="360" alt="Columbia Land Conservancy" class="noshadow" id="headerlogoimage" /></a>
                             <ul>
-                            	<li><a href="http://clc-archive.chameid.es/not-available.html?utm_source=header&amp;utm_medium=links&amp;utm_campaign=membership" title="Donate to CLC" onClick="_gaq.push(['_trackEvent', 'Links', 'Donate', 'Top Menu']);">DONATE</a> <span class="pipes">|</span> </li>
+                            	<li><a href="http://clc-archive2011.chameid.es/not-available.html?utm_source=header&amp;utm_medium=links&amp;utm_campaign=membership" title="Donate to CLC" onClick="_gaq.push(['_trackEvent', 'Links', 'Donate', 'Top Menu']);">DONATE</a> <span class="pipes">|</span> </li>
                                 <li> <a href="/email-sign-up/" OnClick="_gaq.push(['_trackEvent', 'Links', 'email', 'Top Menu']);">EMAIL UPDATES</a> <span class="pipes">| </span></li>
                                 <li><a href="index.html" OnClick="_gaq.push(['_trackEvent', 'Links', 'Home', 'Top Menu']);">Home</a> <span class="pipes"></span></li>
 								</ul>
@@ -65,7 +65,7 @@
 							$key="postlink"; 
 							$featuredlink = get_post_meta($post->ID, $key, true);
 								if ($featuredlink == "") $featuredlink = the_permalink();
-								if ($featuredlink == "http://clc-archive.chameid.es/not-available.html?utm_source=featured&amp;utm_medium=links&amp;utm_campaign=membership") 
+								if ($featuredlink == "http://clc-archive2011.chameid.es/not-available.html?utm_source=featured&amp;utm_medium=links&amp;utm_campaign=membership") 
 									{$category = "Donate";}
 								else {$category = $featuredlink;}
 								?>

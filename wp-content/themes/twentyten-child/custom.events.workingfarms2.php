@@ -36,7 +36,7 @@ get_header(); ?>
 <h2><a href=\"#_LOCATIONPAGEURL\"  title=\"#_LOCATION\">#_LOCATION</a> - #_ADDRESS, #_TOWN</h2>
 [/events_if]
 			[events_if tag='#_ATT{Contact}' value=\"Full\"]
-<h3 style=\"color:black\"><br />This event is full. Stay up to date on our upcoming events by signing up for our <a href=\"http://clc-archive.chameid.es/email-sign-up/\">email newsletter</a>.<br /></h3>
+<h3 style=\"color:black\"><br />This event is full. Stay up to date on our upcoming events by signing up for our <a href=\"http://clc-archive2011.chameid.es/email-sign-up/\">email newsletter</a>.<br /></h3>
 [/events_if]
 			#_EXCERPT
 			[events_if tag='#_ATT{Contact}' value='Marcia']<h3>To register, please contact Marcia Cary at 518.392.5252, ext. 202 or <a title=\"email Marcia\" href=\"mailto:marcia@clctrust.org\">marcia@clctrust.org</a>.</h3>[/events_if]
@@ -109,7 +109,7 @@ $more = 0;       // Set (inside the loop) to display content above the more tag.
             </div>    
  	   		<?php endwhile; ?>
     		<div id="pagenumbers">
-            <a href="http://clc-archive.chameid.es/category/nonclcevent/"><span class="nav-button"> Full Non-CLC Event List</span></a>
+            <a href="http://clc-archive2011.chameid.es/category/nonclcevent/"><span class="nav-button"> Full Non-CLC Event List</span></a>
             </div>
   			<?php else : ?>
 			<h2 class="center">Not Found</h2>

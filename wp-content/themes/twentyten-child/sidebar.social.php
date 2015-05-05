@@ -1,9 +1,9 @@
-<a href="http://clc-archive.chameid.es/not-available.html?utm_source=sidebar-social&amp;utm_medium=links&amp;utm_campaign=membership" title="Donate to CLC" class="sociallink" onClick="_gaq.push(['_trackEvent', 'Links', 'Donate', 'Sidebar']);">
+<a href="http://clc-archive2011.chameid.es/not-available.html?utm_source=sidebar-social&amp;utm_medium=links&amp;utm_campaign=membership" title="Donate to CLC" class="sociallink" onClick="_gaq.push(['_trackEvent', 'Links', 'Donate', 'Sidebar']);">
 	<span class="donate">
 		<img class="socialimage noshadow" id="donate-button" src="/images/logos/s-button.png" height="28" width="19" alt="$" />
 	</span>
 </a>
-<a href="http://clc-archive.chameid.es/not-available.html" onClick="_gaq.push(['_trackEvent', 'Links', 'Email', 'Sidebar']);" title="Sign Up for Email Updates" class="sociallink">
+<a href="http://clc-archive2011.chameid.es/not-available.html" onClick="_gaq.push(['_trackEvent', 'Links', 'Email', 'Sidebar']);" title="Sign Up for Email Updates" class="sociallink">
 	<span class="donate">
 		<img class="socialimage noshadow" id="email-button" src="/images/logos/email.png" width="28" height="27" title="email list" alt="email list" />
 	</span>
