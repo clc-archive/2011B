@@ -135,6 +135,7 @@ html>body .ngg-album {
 	text-align: center;
 	display:inline-block;
 	vertical-align:middle;
+	max-width: 245px; /*ensure three across*/
 }
 
 .ngg-gallery-thumbnail img {
